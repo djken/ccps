@@ -9,7 +9,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "images-icons/favicon.icon",
+      "src": "https://ccps-english.netlify.app/images-icons/favicon.icon",
       "sizes": "152x152",
       "type": "image/png"
     }

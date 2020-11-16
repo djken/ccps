@@ -9,7 +9,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "images/apple-icon-152x152.png",
+      "src": "images/favicon.icon",
       "sizes": "152x152",
       "type": "image/png"
     }

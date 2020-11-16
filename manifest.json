@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "https://ccps-english.netlify.app/images-icons",
+  "start_url": "https://ccps-english.netlify.app",
   "icons": [
     {
       "src": "https://ccps-english.netlify.app/images-icons/favicon.icon",

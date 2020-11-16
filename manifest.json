@@ -1,0 +1,17 @@
+{
+  "name": "CCPS - Text and Audio",
+  "short_name": "GAL",
+  "theme_color": "#000",
+  "background_color": "#4285F4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "images/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ]
+}

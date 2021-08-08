@@ -1,13 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@0;1&display=swap');
 
 
 
 
+.tog{
+    font-family: 'Nunito';
+}
 
 
+/* Heading */
 
-
-
+h1{
+    font-family: 'Nunito';
+}
+/* Heading */
 
 
 
@@ -27,7 +33,7 @@
 
 h3{
     font-weight: bold;
-    font-family: 'Dancing+Script';
+    font-family: 'Nunito';
 }
 
 
@@ -53,4 +59,8 @@ h3{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+body{
+    background: linear-gradient(rgba(4, 104, 107, 0.867), rgb(39, 59, 79));
 }

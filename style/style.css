@@ -72,7 +72,7 @@ h3{
 
 /* Colors level1 */
 
-.b1{
+/* .b1{
     background:#F87171
 }
 
@@ -89,7 +89,7 @@ h3{
 
 .b5{
     background: #F87171;
-}
+} */
 
 
 
@@ -130,6 +130,7 @@ h3{
 
 .bg4{
     background: #065F46;
+    margin-bottom: 0 !important; 
 }
 
 .bg5{

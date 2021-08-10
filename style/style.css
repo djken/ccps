@@ -62,3 +62,78 @@ h3{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#text:hover{
+    background-color: rgba(4, 104, 107, 0.867);
+    /* color: #fff; */
+}
+
+/* Accordion color */
+
+
+/* Colors level1 */
+
+.b1{
+    background:#F87171
+}
+
+.b2{
+    background: #FEE2E2;
+}
+.b3{
+    background: #FECACA;
+}
+
+.b4{
+    background: #FCA5A5;
+}
+
+.b5{
+    background: #F87171;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Colors level3 */
+.bg1{
+    background:#10B981;
+}
+
+.bg2{
+    background: #059669;
+}
+.bg3{
+    background: #047857;
+}
+
+.bg4{
+    background: #065F46;
+}
+
+.bg5{
+    background: #064E3B;
+}
+
+/* Accordion color */

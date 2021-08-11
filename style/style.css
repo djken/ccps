@@ -70,71 +70,39 @@ h3{
 /* Accordion color */
 
 
+/* ************************************************************************************ */
 /* Colors level1 */
 
-/* .b1{
-    background:#F87171
-}
-
-.b2{
-    background: #FEE2E2;
-}
 .b3{
-    background: #FECACA;
+    background: #B91C1C;
+    margin-bottom: 0 !important; 
 }
+/* Colors level1 */
 
-.b4{
-    background: #FCA5A5;
+
+/* ************************************************************************************ */
+/* Colors level2 */
+
+.bl3{
+    background: #1D4ED8;
+    margin-bottom: 0 !important; 
 }
+.bl4
 
-.b5{
-    background: #F87171;
-} */
-
+/* Colors level2 */
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* ************************************************************************************ */
 
 /* Colors level3 */
-.bg1{
-    background:#10B981;
-}
-
-.bg2{
-    background: #059669;
-}
 .bg3{
     background: #047857;
 }
 
 .bg4{
     background: #065F46;
-    margin-bottom: 0 !important; 
+    /* margin-bottom: 0 !important;  */
 }
 
-.bg5{
-    background: #064E3B;
-}
 
 /* Accordion color */

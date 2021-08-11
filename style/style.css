@@ -6,9 +6,6 @@ body{
 }
 
 
-.heading{
-    background: #EDE9FE;
-}
 
 .tog{
     font-family: 'Nunito';
@@ -121,6 +118,5 @@ h3{
 .id {
     background-color: rgba(48, 44, 44, 0.5);
     padding: 5px;
-    border-radius: ;
 }
 /* Accordion color */

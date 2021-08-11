@@ -64,10 +64,7 @@ h3{
     background-repeat: no-repeat;
     background-size: cover;
 }
-#text:hover{
-    background-color: rgba(4, 104, 107, 0.867);
-    /* color: #fff; */
-}
+
 
 /* Accordion color */
 
@@ -99,6 +96,16 @@ h3{
     background: #1E3A8A;
     margin-bottom: 0 !important; 
 }
+.bl4-text{
+    color: rgba(3, 87, 90, 0.867);
+    
+    /* margin-bottom: 0 !important;  */
+}
+
+.bl4-text:hover{
+    color: rgb(39, 59, 79);
+    /* margin-bottom: 0 !important;  */
+}
 /* Colors level2 */
 
 
@@ -120,3 +127,4 @@ h3{
     padding: 5px;
 }
 /* Accordion color */
+

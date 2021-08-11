@@ -3,6 +3,7 @@
 
 body{
     background: linear-gradient(rgba(4, 104, 107, 0.867), rgb(39, 59, 79));
+    /* background: linear-gradient(rgba(13, 180, 189, 0.867), rgb(39, 59, 79)); */
 }
 
 
@@ -73,12 +74,12 @@ h3{
 /* Colors level1 */
 
 .b3{
-    background: #B91C1C;
+    background: rgba(43, 49, 58, 0.7);
     margin-bottom: 0 !important; 
 }
 
 .b4{
-    background: #991B1B;
+    background: #1F2937;
     margin-bottom: 0 !important;
 }
 /* Colors level1 */
@@ -98,6 +99,8 @@ h3{
 }
 .bl4-text{
     color: rgba(3, 87, 90, 0.867);
+    font-size: 18px;
+    padding-bottom: 0;
     
     /* margin-bottom: 0 !important;  */
 }

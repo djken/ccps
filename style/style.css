@@ -5,6 +5,11 @@ body{
     background: linear-gradient(rgba(4, 104, 107, 0.867), rgb(39, 59, 79));
 }
 
+
+.heading{
+    background: #EDE9FE;
+}
+
 .tog{
     font-family: 'Nunito';
 }
@@ -113,5 +118,9 @@ h3{
     margin-bottom: 0 !important; 
 }
 
-
+.id {
+    background-color: rgba(48, 44, 44, 0.5);
+    padding: 5px;
+    border-radius: ;
+}
 /* Accordion color */

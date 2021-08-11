@@ -77,6 +77,11 @@ h3{
     background: #B91C1C;
     margin-bottom: 0 !important; 
 }
+
+.b4{
+    background: #991B1B;
+    margin-bottom: 0 !important;
+}
 /* Colors level1 */
 
 
@@ -87,8 +92,11 @@ h3{
     background: #1D4ED8;
     margin-bottom: 0 !important; 
 }
-.bl4
 
+.bl4{
+    background: #1E3A8A;
+    margin-bottom: 0 !important; 
+}
 /* Colors level2 */
 
 
@@ -96,12 +104,13 @@ h3{
 
 /* Colors level3 */
 .bg3{
-    background: #047857;
+    background: #047857 !important;
+    margin-bottom: 0 !important; 
 }
 
 .bg4{
     background: #065F46;
-    /* margin-bottom: 0 !important;  */
+    margin-bottom: 0 !important; 
 }
 
 
